@@ -1,8 +1,3 @@
---Carlos Antônio de Melo Mendes – 12121BCC048
---Gullit Damião Teixeira de Campos - 12011BCC034
---João Vitor Gonçalves Oliveira - 11921BCC024
---Yuri Pio Macedo - 12021BCC025
-
 --2)CONSULTAS USANDO AGRUPAMENTOS SIMPLES e condição de seleção.→ 
 --Em todas as questões as respostas devem ser **sem repetições**. 
 --Em muitoscasos o DISTINCT resolveria a questão, mas para as questões a seguir não useDISTINCT.
